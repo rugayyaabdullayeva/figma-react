@@ -1,0 +1,16 @@
+.footer{
+    background-color: #232127;
+    color: white;
+    padding: 70px 160px;
+}
+.footer-ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+li{
+    color: #BFBFBF;
+    font-weight: 500;
+    font-size: 15px;
+}
